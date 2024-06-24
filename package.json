@@ -27,7 +27,8 @@
     "default": "./lib/default.js"
   },
   "files": [
-    "lib/"
+    "lib/",
+    "index.ts"
   ],
   "dependencies": {
     "dequal": "^2.0.0"
